@@ -1,4 +1,4 @@
-# PasswordGenerator03
+# PasswordGenerator
 
 https://roxonus.github.io/PasswordGenerator/
 
