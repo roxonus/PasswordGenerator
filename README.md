@@ -7,7 +7,7 @@ https://roxonus.github.io/PasswordGenerator/
 Password generator using prompts to fill parameters for uppercase, lowercase, special characters, and numbers. 
 Password can be between 8 and 128 characters.
 
-![]()
+![](assets/passwordgen.png)
 
 
 
